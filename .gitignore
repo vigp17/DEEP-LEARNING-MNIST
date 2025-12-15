@@ -13,7 +13,6 @@ checkpoints/*.pth
 
 # Results
 results/*.png
-results/*.jpg
 
 # IDE
 .vscode/
