@@ -27,4 +27,4 @@ results/*.jpg
 Thumbs.db
 
 # pytest
-.pytest_cache/
+.pytest_cache/debug_*.png
