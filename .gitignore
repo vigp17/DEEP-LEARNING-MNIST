@@ -13,7 +13,6 @@ checkpoints/*.pth
 
 # Results
 results/*.png
-results/*.jpg
 
 # IDE
 .vscode/
@@ -27,4 +26,8 @@ results/*.jpg
 Thumbs.db
 
 # pytest
+<<<<<<< HEAD
 .pytest_cache/debug_*.png
+=======
+.pytest_cache/
+>>>>>>> 4a8a626b664b0b29ed05611d03b861f75499774a
